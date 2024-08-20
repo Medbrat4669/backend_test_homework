@@ -1,1 +1,3 @@
 text.doc
+/venv
+__pycache__/
